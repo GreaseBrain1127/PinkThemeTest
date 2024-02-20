@@ -1,6 +1,7 @@
 {
     "name": "Pinko",
     "description": "poo or something",
+    "iconpack":"rosiecord-plumpy",
     "authors": [
         {
             "name": "greasebrain",
@@ -138,5 +139,4 @@
       "RED_400": "#FF0060"
 },
     "spec": 2
-    "iconpack":"rosiecord-plumpy"
 }
