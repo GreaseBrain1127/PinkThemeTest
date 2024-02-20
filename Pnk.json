@@ -1,6 +1,7 @@
 {
   "name": "Pnk",
   "description": "poo",
+  "spec": 2,
   "authors": [
     {
       "name": "@GreaseBrain"
@@ -87,11 +88,5 @@
     "GREEN_345": "#FF0060",
     "GREEN_360": "#FF0060",
     "RED_400": "#FF0060"
-  },
-  "spec": 2,
-  "background": {
-    "blur": 0,
-    "alpha": 0,
-    "color": "#000000"
   }
 }
