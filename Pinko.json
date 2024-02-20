@@ -1,9 +1,9 @@
 {
     "name": "Pinko",
-    "description": "poo",
+    "description": "poo or something",
     "authors": [
         {
-            "name": "@GreaseBrain",
+            "name": "greasebrain",
             "id": "213178662000787456"
         }
     ],
@@ -142,7 +142,7 @@
   
     },
     "plus":{
-        "version":"0",
+        "version":"621",
         "iconpack":"rosiecord-plumpy"
     }
 }
