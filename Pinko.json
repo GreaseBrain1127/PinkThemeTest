@@ -138,11 +138,5 @@
       "RED_400": "#FF0060"
 },
     "spec": 2
-
-  
-    },
-    "plus":{
-        "version":"621",
-        "iconpack":"rosiecord-plumpy"
-    }
+    "iconpack":"rosiecord-plumpy"
 }
